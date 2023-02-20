@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOPORTE_TECNICO_TICKER", "SOPORTE_TECNICO_TICKER\SOPORTE_TECNICO_TICKER.csproj", "{44F0076E-192D-4048-A0B0-E00F524DBD04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44F0076E-192D-4048-A0B0-E00F524DBD04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44F0076E-192D-4048-A0B0-E00F524DBD04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44F0076E-192D-4048-A0B0-E00F524DBD04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44F0076E-192D-4048-A0B0-E00F524DBD04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A85EB42-509E-4B11-95E3-82C7C75A51F7}
+	EndGlobalSection
+EndGlobal

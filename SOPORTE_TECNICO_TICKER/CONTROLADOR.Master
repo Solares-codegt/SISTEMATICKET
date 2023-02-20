@@ -1,0 +1,71 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="CONTROLADOR.master.cs" Inherits="SOPORTE_TECNICO_TICKER.CONTROLADOR" %>
+
+<!DOCTYPE html>
+
+
+<html>
+<head runat="server">
+
+    
+         <script language="javascript" type="text/javascript">
+     javascript:window.history.forward(1);
+         </script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta content="width=devcie-widthm initial-scale=1.0" name="viewport">
+    <meta content="" name="keywords">
+    <meta content="" name="description">
+    <meta property="og:title" content="">
+    <meta property="og:image" content="">
+    <meta property="og:url" content="">
+
+    <meta name="twitter:card" content="">
+    <meta name="twitter:site" content="">
+       <!-- Bootstrap CSS File -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Libraries CSS Files -->
+  <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+  <link href="lib/animate-css/animate.min.css" rel="stylesheet">
+
+  <!-- Main Stylesheet File -->
+  <link href="css/style.css" rel="stylesheet">    
+
+     <!-- Required JavaScript Libraries -->
+  <script src="lib/jquery/jquery.min.js"></script>
+
+  <script src="lib/superfish/hoverIntent.js"></script>
+  <script src="lib/superfish/superfish.min.js"></script>
+  <script src="lib/morphext/morphext.min.js"></script>
+  <script src="lib/wow/wow.min.js"></script>
+  <script src="lib/stickyjs/sticky.js"></script>
+  <script src="lib/easing/easing.js"></script>
+
+    
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js"></script>
+
+
+  <!-- Template Specisifc Custom Javascript File -->
+  <script src="js/custom.js"></script>
+
+
+
+    
+    <title>
+        
+            <asp:ContentPlaceHolder  runat="server" ID="title">
+                         </asp:ContentPlaceHolder>
+
+    </title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+   
+            <asp:ContentPlaceHolder ID="body" runat="server">
+
+            </asp:ContentPlaceHolder>
+ 
+   
+</body>
+</html>
+
